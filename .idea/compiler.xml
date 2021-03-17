@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="learning-web" />
+        <module name="learningservice" />
+        <module name="learningweb" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="learning-web" target="1.7" />
+      <module name="learning" target="1.5" />
+      <module name="learningservice" target="1.5" />
+      <module name="learningweb" target="1.7" />
+      <module name="remote_repository" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

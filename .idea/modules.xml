@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/learning-web/learning-web.iml" filepath="$PROJECT_DIR$/learning-web/learning-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-service/learningservice.iml" filepath="$PROJECT_DIR$/learning-service/learningservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-web/learningweb.iml" filepath="$PROJECT_DIR$/learning-web/learningweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/remote_repository.iml" filepath="$PROJECT_DIR$/.idea/remote_repository.iml" />
     </modules>
   </component>

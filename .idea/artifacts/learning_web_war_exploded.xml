@@ -11,13 +11,13 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="learning-web" />
+          <element id="module-output" name="learningweb" />
         </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/learning-web/target/learning-web/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="learning-web/web/Web" />
+      <element id="javaee-facet-resources" facet="learningweb/web/Web" />
     </root>
   </artifact>
 </component>
