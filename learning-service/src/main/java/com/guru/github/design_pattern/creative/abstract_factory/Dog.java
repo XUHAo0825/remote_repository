@@ -1,0 +1,8 @@
+package com.guru.github.design_pattern.creative.abstract_factory;
+
+public class Dog implements IPet {
+
+    public void howMuch() {
+        System.out.println("Dog $5");
+    }
+}
