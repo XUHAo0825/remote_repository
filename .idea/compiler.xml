@@ -11,10 +11,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="learning" target="1.5" />
-      <module name="learningservice" target="1.5" />
-      <module name="learningweb" target="1.7" />
-      <module name="remote_repository" target="1.5" />
+      <module name="learningservice" target="8" />
+      <module name="learningweb" target="8" />
+      <module name="remote_repository" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
