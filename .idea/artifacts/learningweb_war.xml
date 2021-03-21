@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="learningweb:war">
+    <output-path>$PROJECT_DIR$/learning-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>learningweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="learning-web.war">
+      <element id="artifact" artifact-name="learningweb:war exploded" />
+    </root>
+  </artifact>
+</component>

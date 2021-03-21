@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d4ddeca-cd64-4122-81d4-6938f338d7dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learning-service/target/classes/META-INF/learningservice.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning-service/src/main/java/com/guru/github/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/learning-service/src/main/java/com/guru/github/Demo.java" afterDir="false" />
-    </list>
+    <list default="true" id="5d4ddeca-cd64-4122-81d4-6938f338d7dd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/learning-web/target/" />
     <ignored path="$PROJECT_DIR$/learning/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,26 +30,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-service/src/main/java/com/guru/github/design_pattern/creative/builder/Holder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learning-service/src/main/java/com/guru/github/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -114,6 +91,12 @@
       </list>
     </option>
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -155,47 +138,12 @@
               <item name="remote_repository" type="b2602c69:ProjectViewProjectNode" />
               <item name="remote_repository" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="remote_repository" type="b2602c69:ProjectViewProjectNode" />
-              <item name="remote_repository" type="462c0819:PsiDirectoryNode" />
-              <item name="learning-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="remote_repository" type="b2602c69:ProjectViewProjectNode" />
-              <item name="remote_repository" type="462c0819:PsiDirectoryNode" />
-              <item name="learning-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="remote_repository" type="b2602c69:ProjectViewProjectNode" />
-              <item name="remote_repository" type="462c0819:PsiDirectoryNode" />
-              <item name="learning-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="remote_repository" type="b2602c69:ProjectViewProjectNode" />
-              <item name="remote_repository" type="462c0819:PsiDirectoryNode" />
-              <item name="learning-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="remote_repository" type="b2602c69:ProjectViewProjectNode" />
-              <item name="remote_repository" type="462c0819:PsiDirectoryNode" />
-              <item name="learning-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,10 +160,12 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-web\src" />
-      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-web" />
-      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-service\src\main\java\com\guru\github\design_pattern\behavior\visitor" />
+      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-service\src\main\java\com\guru\github\design_pattern\behavior\template" />
+      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-service\src\main\java\com\guru\github\design_pattern\behavior\strategy" />
+      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-service\src\main\java\com\guru\github\design_pattern\behavior\state" />
+      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-service\src\main\java\com\guru\github\design_pattern\behavior\responsibility" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.guru.github.design_pattern.creative.builder" />
@@ -224,12 +174,10 @@
       <recent name="com.guru.github.design_pattern.establish" />
       <recent name="com.guru.github.design_pattern.creative" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-service\src\main\java\com\guru\github\design_pattern\behavior\visitor" />
-      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-service\src\main\java\com\guru\github\design_pattern\behavior\template" />
-      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-service\src\main\java\com\guru\github\design_pattern\behavior\strategy" />
-      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-service\src\main\java\com\guru\github\design_pattern\behavior\state" />
-      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-service\src\main\java\com\guru\github\design_pattern\behavior\responsibility" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-web\src" />
+      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository\learning-web" />
+      <recent name="C:\Users\ThinkPad\Desktop\manager\remote_repository" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -383,12 +331,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.Tomcat 9.0.0.M4" />
       <item itemvalue="Application.Handler" />
       <item itemvalue="Application.Holder" />
       <item itemvalue="Application.Holder (1)" />
       <item itemvalue="Application.Holder (2)" />
       <item itemvalue="Application.Holder (3)" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.0.M4" />
     </list>
     <recent_temporary>
       <list>
@@ -446,7 +394,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11408000" />
+    <option name="totallyTimeSpent" value="11423000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,9 +406,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-4" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20522387" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20735608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -475,7 +423,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36984816" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5368764" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.329718" />
